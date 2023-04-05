@@ -6,9 +6,7 @@
 
 ## Configure the Jenkins server
 
-
 - Install and configure the Jenkins plugin. The plugin must be installed and configured to authorize the connection to GitLab.
-
 
 - Frist login to your jenkins server and make sure it is running
 
